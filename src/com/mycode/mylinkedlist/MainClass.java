@@ -25,20 +25,5 @@ public class MainClass {
         myLinkedList.forEach(System.out::println);
         myLinkedList.clear();
 
-//
-//        System.out.println("=================");
-//        System.out.println("List 1 = " + myLinkedList);
-//        System.out.println("Create a new list from list1");
-//        MyLinkedList<Integer> list2 = new MyLinkedList<>(myLinkedList);
-//        System.out.println("List 2 = " + list2);
-//        System.out.println("=================");
-//
-//        System.out.println("list.equals(list2) " + myLinkedList.equals(list2));
-//        System.out.println("list == list2 " + (myLinkedList == list2));
-//
-//        System.out.println("list.hashCode() == list2.hashCode() " + (myLinkedList.hashCode() == list2.hashCode()));
-//        System.out.println("Clear list1 and list2");
-
-
     }
 }
