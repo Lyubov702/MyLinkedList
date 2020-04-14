@@ -1,5 +1,6 @@
 # MyLinkedList
-___________________________________Сравнение производительности коллекций___________________________________________
+
+Сравнение производительности коллекций
 
 Рассматрим ArrayList и LinkedList.
 В каждый лист было добавлено 10000 элементов Employee.
@@ -22,8 +23,9 @@ _________set element_________
 Set time of  ArrayList is equal  1623600
 Set time of  LinkedList is equal 57282900
 _________clear list_________
-Set time of  ArrayList is equal  217700
-Set time of  LinkedList is equal 260100
+Clear time of  ArrayList is equal  217700
+Clear time of  LinkedList is equal 260100
+
 Total operating time of arrayList= 2572600
 Total operating time of linkedList= 65487900
 
